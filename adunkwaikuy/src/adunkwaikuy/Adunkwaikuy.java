@@ -10,6 +10,7 @@ public class Adunkwaikuy {
 
     public static void main(String[] args) {
     System.out.println("Kwai Adun & Khan");
+    System.out.println("AeyKwai");
     }
     
 }
